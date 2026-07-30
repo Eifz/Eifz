@@ -142,23 +142,9 @@
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Eifz&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eifz&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
