@@ -116,10 +116,7 @@
 
 </p>
 
-<p align="center">
-Strong team player with excellent communication and collaboration skills.<br>
-Quick to adapt, eager to learn, and passionate about solving problems through technology.
-</p>
+
 
 ---
 
