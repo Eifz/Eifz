@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hi,%20I'm%20Kamonchanok%20Mattawanont&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Backend%20Developer&descAlignY=65&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,50:2E8B57,100:A8E063&height=250&section=header&text=Hi,%20I'm%20Kamonchanok%20Mattawanont&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Backend%20Developer&descAlignY=65&descSize=20"/>
 </p>
 
 <p align="center">
