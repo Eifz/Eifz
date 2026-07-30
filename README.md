@@ -124,9 +124,9 @@
 
 | Language | Proficiency |
 |----------|-------------|
-| 🇹🇭 Thai | Native |
-| 🇬🇧 English | Intermediate |
-| 🇨🇳 Chinese | Basic |
+| Thai | Native |
+| English | Intermediate |
+| Chinese | Basic |
 
 ---
 
