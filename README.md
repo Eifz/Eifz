@@ -81,7 +81,7 @@
 
 | Project | Tech Stack | Description | Repository |
 |---------|------------|-------------|------------|
-| **DIY Invention Recommendation System** | Java • Spring Boot • React • Next.js • MySQL | Web application that recommends DIY projects based on available materials. Responsible for frontend development, backend APIs, database design, CRUD operations, and system integration. | [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eifz/Repo) |
+| **DIY Invention Recommendation System** | Java • Spring Boot • React • Next.js • MySQL | Full-Stack web application that recommends DIY projects based on available materials. Responsible for frontend development, backend API integration, database design, CRUD operations, and system integration. | [Frontend](https://github.com/Eifz/frontend/tree/main) [Backend](https://github.com/Eifz/Backend)|
 
 ---
 
